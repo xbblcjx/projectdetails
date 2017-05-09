@@ -22,4 +22,11 @@ Kappa Score,RecallPrecisionF1 ScoreType1 ErrorType2 ErrorConfusion Matrix
 
 
 
-
+*************************************************************
+Project: User Interface Pattern mining.
+Project description: User clustering based on their activity on the XXX (XXX XX XX ) platform. i.e classify users into functional groups  (managers, securities clearance, funds routing, triparty, bnym bridge etc.) but without defining the groups. Also classify the user based on the accounts they use for different activity. Classify which users are responsible for what accounts. Identify work patterns - i.e. users navigating a set of screens together.
+Algorithm:
+For classifying users Association Rule mining, Expectation Maximization (EM) based on Markov chains, Conceptual clustering, COBWEB and Category Utility.
+Technology stack:R, Python, Java,
+Role and responsibility: SME, Developer.
+************************--------------------************************
